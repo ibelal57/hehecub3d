@@ -1,0 +1,22 @@
+/* XPM */
+static char *north_xpm[] = {
+"16 16 2 1",
+"a c #D94F4F",
+"b c #7B1E1E",
+"abababababababab",
+"babababababababa",
+"abababababababab",
+"babababababababa",
+"abababababababab",
+"babababababababa",
+"abababababababab",
+"babababababababa",
+"abababababababab",
+"babababababababa",
+"abababababababab",
+"babababababababa",
+"abababababababab",
+"babababababababa",
+"abababababababab",
+"babababababababa"
+};

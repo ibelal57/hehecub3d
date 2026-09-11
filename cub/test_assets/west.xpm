@@ -1,0 +1,22 @@
+/* XPM */
+static char *west_xpm[] = {
+"16 16 2 1",
+"a c #4F82D9",
+"b c #1E407B",
+"aaaaaaaaaaaaaaaa",
+"bbbbbbbbbbbbbbbb",
+"aaaaaaaaaaaaaaaa",
+"bbbbbbbbbbbbbbbb",
+"aaaaaaaaaaaaaaaa",
+"bbbbbbbbbbbbbbbb",
+"aaaaaaaaaaaaaaaa",
+"bbbbbbbbbbbbbbbb",
+"aaaaaaaaaaaaaaaa",
+"bbbbbbbbbbbbbbbb",
+"aaaaaaaaaaaaaaaa",
+"bbbbbbbbbbbbbbbb",
+"aaaaaaaaaaaaaaaa",
+"bbbbbbbbbbbbbbbb",
+"aaaaaaaaaaaaaaaa",
+"bbbbbbbbbbbbbbbb"
+};
